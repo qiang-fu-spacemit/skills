@@ -1,0 +1,21 @@
+{
+  "name": "skills",
+  "owner": {
+    "name": "qiang-fu-spacemit"
+  },
+  "metadata": {
+    "description": "SpacemiT custom skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "spacemit-skills",
+      "description": "SpacemiT device skills including ModelZoo benchmark",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/spacemit-modelzoo-bench"
+      ]
+    }
+  ]
+}
