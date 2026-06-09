@@ -10,6 +10,8 @@
       "Bash(file *)",
       "Bash(cat *)",
       "Bash(modelscope *)",
+      "Bash(mkdir *)",
+      "Bash(cd *)",
       "Bash(export *)"
     ]
   }
