@@ -12,6 +12,7 @@
       "Bash(modelscope *)",
       "Bash(mkdir *)",
       "Bash(cd *)",
+      "Bash(cp *)",
       "Bash(export *)"
     ]
   }
